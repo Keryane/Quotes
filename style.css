@@ -1,0 +1,14 @@
+.wrapp{
+    width: 40%;
+    height: 70vh;
+    margin-top:15vh;
+    margin-left: 30%;
+    border: 1px solid black;
+    text-align: center;
+    box-shadow: #050505 10px 10px 10px;
+}
+
+.wrapp p{
+    padding:10px;
+    height: 50px;
+}
